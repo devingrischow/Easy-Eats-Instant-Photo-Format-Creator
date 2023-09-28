@@ -12,6 +12,7 @@ Parts of this program can be adjusted to a users liking if they want (mainly cro
 
 
 
+
 ICE = InstantCaptureAndEdit()
 
 
