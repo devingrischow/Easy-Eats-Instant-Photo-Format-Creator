@@ -44,7 +44,7 @@ Use the following pip commands to install the required packages for the Project:
   pip install scikit-image
 ```
 
-# Step 3: Run 
+# Step 3: Run The Program
 
 Run The File Named `EndUser.py`
 
