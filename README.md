@@ -1,14 +1,16 @@
 
 # Easy-Eats-Instant-Photo-Format-Creator
 
-A brief description of what this project does and who it's for
-
+This Softwares Intended Purpose Is to instantly create green screened thumbnail images that are used in Easy Eats. This Software instantly changes out the background of a image while looking at a screen screen. IT identifies mostly colors in the light screen colorspace and seperates out the foreground, leaving a masked out object. 
 
 ## Features
 
 - Live Preview Of Capture
+- Name Output Files Instantly
 - Choose File Save Destination
 - Custom Window For Simplified Use
+- Saves the Original Photo With a clear Indication (marked "Og_name") 
+
 
 
 # Run Procedure
