@@ -9,7 +9,7 @@ This Softwares Intended Purpose Is to instantly create green screened thumbnail 
 - Name Output Files Instantly
 - Choose File Save Destination
 - Custom Window For Simplified Use
-- Saves the Original Photo With a clear Indication (marked "Og_name") 
+- Saves the Original Photo With a clear Indication (marked "Og_`fileName`") 
 
 
 
